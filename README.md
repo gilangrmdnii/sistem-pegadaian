@@ -1,6 +1,4 @@
-README yang kamu buat sudah cukup baik, namun ada beberapa bagian yang bisa diperbaiki dan lebih diperjelas. Berikut adalah versi yang lebih lengkap dan terstruktur dengan beberapa perbaikan:
 
----
 
 # Pawn System Project
 
